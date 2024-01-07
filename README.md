@@ -35,6 +35,16 @@ Special Functions
 - Search and Display:
   - The search functionality allows users to find specific student records based on various parameters. The results are displayed in the GUI.
 
+![image](https://github.com/EPT001/School-Management-System/assets/155842366/f75e08d1-244a-42f5-887a-4df03c31ddc5)
+
+![image](https://github.com/EPT001/School-Management-System/assets/155842366/c38dcf89-0850-470f-acc3-6eac1da61a58)
+
+![image](https://github.com/EPT001/School-Management-System/assets/155842366/2a1e3050-8b91-4600-869a-eb79b77accdf)
+
+
+
+
+
 
 To run the application, follow these steps:
 
